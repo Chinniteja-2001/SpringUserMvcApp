@@ -1,0 +1,16 @@
+
+Jan 25, 2024 15:11:07.15 NEW SESSION
+Jan 25, 2024 15:11:07.15 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Jan 25, 2024 15:11:42.36 [6608:8572:0125/151142.365:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -100
+Jan 25, 2024 15:11:54.43 [6608:25832:0125/151154.435:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_CONNECTION_CLOSED)
+Jan 25, 2024 15:12:36.64 [6608:8572:0125/151236.641:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 25, 2024 15:13:08.77 [6608:25832:0125/151308.770:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+Jan 25, 2024 15:13:32.28 [6608:8572:0125/151332.281:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 25, 2024 15:13:49.13 [6608:8572:0125/151349.137:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Jan 25, 2024 15:13:49.17 [6608:23344:0125/151349.177:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NETWORK_CHANGED)
+Jan 25, 2024 15:13:51.22 [6608:8572:0125/151351.228:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Jan 25, 2024 15:13:58.83 [6608:15060:0125/151358.831:ERROR:device_event_log_impl.cc(192)] [15:13:58.834] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Jan 25, 2024 15:14:31.17 [6608:24512:0125/151431.177:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_CONNECTION_CLOSED)
+Jan 25, 2024 15:14:31.46 [6608:8572:0125/151431.468:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -100
+Jan 25, 2024 15:15:06.09 [6608:25832:0125/151506.095:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NETWORK_CHANGED)
+Jan 25, 2024 15:15:11.17 [6608:8572:0125/151511.174:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
